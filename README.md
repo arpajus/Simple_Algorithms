@@ -9,4 +9,4 @@ ReverseNumber:
 Code expects an input of a number and the output will be the reverse of the number given. If you recieve 456 the program will output 654. The problem is solved by a mathematical way. Just divide the number on 10 every time. Take the reminder and the reverse will be the old reminder *10 plus the actual reminder. 
 
 Calculator:
-Basic calculator with just four operations just to show how to work with while doing iterations until the user wants to finish. The final implementation will have methods for operations and will control the problem with int in the division. 
+Basic calculator with just four operations just to show how to work with while doing iterations until the user wants to finish.
