@@ -10,3 +10,6 @@ Code expects an input of a number and the output will be the reverse of the numb
 
 Calculator:
 Basic calculator with just four operations just to show how to work with while doing iterations until the user wants to finish.
+
+ReverseArray:
+A basic algorithm using two methods where you reverse an array. Just swapping the first position with the last position, the second position with last-1 of the array and so on. The main thing here is that we have two int with a behaviour of two pointers pointing at the start and at the end. And this two pointers are moving while we are swapping the positions. 

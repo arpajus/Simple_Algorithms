@@ -47,7 +47,7 @@ public class Calculator {
             }
             System.out.println(answer);
         }
-
+        scan.close();
     }
     private static float divide(int number1, int number2) {
         return (float)number1/(float)number2;
