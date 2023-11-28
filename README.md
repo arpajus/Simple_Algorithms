@@ -18,3 +18,6 @@ Richest Customer Wealth:
 The solution for this problem: https://leetcode.com/problems/richest-customer-wealth/
 The objective is to return the max money of the accounts. The input would be an array of double dimension like [1,2,3][4,5,6].
 Every row of the array is how accounts has one person and the number is the amount of money there are on the account. 
+
+BinarySearch:
+The traditional algorithm to search an element on a sorted array using the Binary Search algorithm. This method improves the Time complexity having a O(log n) being n the numbers of elements on a array. 
