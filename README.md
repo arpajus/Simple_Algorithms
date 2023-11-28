@@ -20,4 +20,4 @@ The objective is to return the max money of the accounts. The input would be an 
 Every row of the array is how accounts has one person and the number is the amount of money there are on the account. 
 
 BinarySearch:
-The traditional algorithm to search an element on a sorted array using the Binary Search algorithm. This method improves the Time complexity having a O(log n) being n the numbers of elements on a array. 
+The traditional algorithm to search an element on a sorted array using the Binary Search algorithm. This method improves the Time complexity having a O(log n) being n the numbers of elements on a array. The algorithm is usefull if the array is ascending sorted or descending sorted. 
