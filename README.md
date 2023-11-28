@@ -13,3 +13,8 @@ Basic calculator with just four operations just to show how to work with while d
 
 ReverseArray:
 A basic algorithm using two methods where you reverse an array. Just swapping the first position with the last position, the second position with last-1 of the array and so on. The main thing here is that we have two int with a behaviour of two pointers pointing at the start and at the end. And this two pointers are moving while we are swapping the positions. 
+
+Richest Customer Wealth:
+The solution for this problem: https://leetcode.com/problems/richest-customer-wealth/
+The objective is to return the max money of the accounts. The input would be an array of double dimension like [1,2,3][4,5,6].
+Every row of the array is how accounts has one person and the number is the amount of money there are on the account. 
